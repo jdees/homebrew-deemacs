@@ -5,9 +5,9 @@
 class Deemacs < Formula
   desc "Lightweight editor written in c with ncourses mimicing emacs"
   homepage "https://jdees.de"
-  url "https://github.com/jdees/deemacs/archive/refs/tags/v0.3.0.tar.gz"
-  version "0.3.0"
-  sha256 "7d7527f071abbb211477c46afce41e18afc15b757a36e47448702858e2663595"
+  url "https://github.com/jdees/deemacs/archive/refs/tags/v0.4.0.tar.gz"
+  version "0.4.0"
+  sha256 "74a5f33cc2ddd50e168e20b8c7d58444987f67a2670839f00b00c57e1989fdb8"
 
   # depends_on "cmake" => :build
 #  depends_on :ncurses
